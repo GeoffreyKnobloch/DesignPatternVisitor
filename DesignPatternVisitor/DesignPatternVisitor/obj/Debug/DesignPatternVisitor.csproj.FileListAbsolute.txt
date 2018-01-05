@@ -1,0 +1,6 @@
+q:\documents\visual studio 2015\Projects\DesignPatternVisitor\DesignPatternVisitor\bin\Debug\DesignPatternVisitor.exe.config
+q:\documents\visual studio 2015\Projects\DesignPatternVisitor\DesignPatternVisitor\bin\Debug\DesignPatternVisitor.exe
+q:\documents\visual studio 2015\Projects\DesignPatternVisitor\DesignPatternVisitor\bin\Debug\DesignPatternVisitor.pdb
+q:\documents\visual studio 2015\Projects\DesignPatternVisitor\DesignPatternVisitor\obj\Debug\DesignPatternVisitor.csprojResolveAssemblyReference.cache
+q:\documents\visual studio 2015\Projects\DesignPatternVisitor\DesignPatternVisitor\obj\Debug\DesignPatternVisitor.exe
+q:\documents\visual studio 2015\Projects\DesignPatternVisitor\DesignPatternVisitor\obj\Debug\DesignPatternVisitor.pdb
